@@ -1,0 +1,9 @@
+{
+  "name": "my-person-words",
+  "version": "1.0.0",
+  "description": "markdown words be managed vuepress",
+  "main": "index.js",
+  "repository": "https://github.com/keyInBox/vuepress-person-words",
+  "author": "keyInBox",
+  "license": "MIT"
+}
